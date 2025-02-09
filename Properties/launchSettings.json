@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TradingCategorize": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
